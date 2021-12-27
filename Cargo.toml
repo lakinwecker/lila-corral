@@ -23,4 +23,4 @@ tokio-stream = { version = "0.1", features = ["io-util"] }
 tokio-util = { version = "0.6", features = ["io"] }
 tokio = { version = "1", features = ["full"] }
 tower = { version = "0.4", features = ["full"] }
-# thiserror = "1.0" 
+thiserror = "1.0" 
